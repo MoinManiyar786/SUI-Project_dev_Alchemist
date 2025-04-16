@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the repository
 
 ```bash
-git clone git clone https://github.com/MoinManiyar786/SUI-Project_dev_Alchemist.git
+git clone https://github.com/MoinManiyar786/SUI-Project_dev_Alchemist.git
 ```
 
 ### Step 2: Install Dependencies
