@@ -16,8 +16,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/H2Optimisers.git
-cd H2Optimisers
+git clone git clone https://github.com/MoinManiyar786/SUI-Project_dev_Alchemist.git
 ```
 
 ### Step 2: Install Dependencies
@@ -40,14 +39,12 @@ cd Server
 node app.js
 ```
 
-This will start the application at `http://localhost:5173`. Open this URL in your web browser to view the application.
-
 ### Step 4: To run the project open a new terminal and run this command:
 ```bash
 npm run dev
 ```
 
-This will create an optimized version of the app in the `build` folder, ready to be deployed.
+This will start the application at `http://localhost:5173`. Open this URL in your web browser to view the application.
 
 ## Folder Structure
 
